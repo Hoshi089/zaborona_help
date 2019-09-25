@@ -17,7 +17,7 @@ Zyxel Keenetic II-series wiki .
 openwrt very simple script  
 Что там с Mikrotik-ом? У кого получилось?  
 +1 . 
-На Mikrotik работает!  
+На Mikrotik работает!  ккк
 Всем чмоки в этом чяти . 
 Wiki для Ubuntu . 
 + . 
